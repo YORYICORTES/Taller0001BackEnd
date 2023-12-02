@@ -1,0 +1,16 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "nombre": "Cuentos de Terror",
+            "autor": "Andres Cortes",
+            "anio": 2005
+        },
+        {
+            "id": 2,
+            "nombre": "Novelas Colombianas",
+            "autor": "Juan Acosta",
+            "anio": 2010
+        }
+    ]
+}
